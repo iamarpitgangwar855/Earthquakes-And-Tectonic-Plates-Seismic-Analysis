@@ -1,1 +1,2 @@
-# Earthquakes And Tectonic Plates Seismic Analysis
+# Earthquakes and Tectonic Plates: Seismic Analysis
+
